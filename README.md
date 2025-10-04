@@ -54,9 +54,9 @@
 ## 備註
 
 本筆記僅作為**個人學習紀錄**與**公開展示**用途，  
-若需引用、轉載、或分享，請附上原作者出處。  
+若需引用、轉載、或分享，請**附上原作者出處**。
 
 ---
 
-> © 2025 by [yoshi-huang]  
+> © 2025 by yoshi-huang  
 > Personal handwritten notes for academic review and archival purposes.
