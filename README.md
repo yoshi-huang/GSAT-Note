@@ -15,14 +15,14 @@
 
 ```
 
-├── Mathematics/        # 數學題型整理
+├── Mathematics/           # 數學題型整理
 ├── Science/
-│   ├── phys/           # 物理筆記
-│   ├── chem/           # 化學筆記
-│   ├── bio/            # 生物筆記 (1)
-│   ├── es/          # 地球科學筆記 
-│   └── others/         # 其他筆記 (1)
-└── English Grammar/    # 英文文法筆記 (1)
+│   ├── phys/              # 物理筆記
+│   ├── chem/              # 化學筆記
+│   ├── bio/ (1)           # 生物筆記
+│   ├── es/            # 地球科學筆記 
+│   └── others/ (1)        # 其他筆記
+└── English Grammar/ (1)   # 英文文法筆記
 
 ```
 
