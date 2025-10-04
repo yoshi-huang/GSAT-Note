@@ -20,17 +20,16 @@
     └── others/         # 其他筆記
 
 
-```
-<!--
-├── English Grammar/    # 英文文法筆記
 ├── Mathematics/        # 數學題型與觀念整理
-└── Science/
-    ├── phys/           # 物理筆記
-    ├── chem/           # 化學筆記
-    ├── bio/            # 生物筆記
-    └── es/          # 地球科學筆記
-    └── others/         # 其他筆記
--->
+├── Science/
+│   ├── phys/           # 物理筆記
+│   ├── chem/           # 化學筆記
+│   ├── bio/            # 生物筆記
+│   └── es/          # 地球科學筆記
+│   └── others/         # 其他筆記
+└── English Grammar/    # 英文文法筆記
+
+```
 
 > *後續將隨進度持續補充與維護章節內容。
 
