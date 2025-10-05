@@ -14,10 +14,10 @@
 ## 目錄結構
 
 ```
-├── English Grammar/    # 英文文法筆記
-└── Science/
-    ├── bio/            # 生物筆記
-    └── others/         # 其他筆記
+├── [English Grammar/](./English Grammar/)    # 英文文法筆記
+└── [Science/](./Science/)
+    ├── [bio/](./Science/bio/)            # 生物筆記
+    └── [others/](./Science/others/)         # 其他筆記
 ```
 <!--
 ├── English Grammar/    # 英文文法筆記
